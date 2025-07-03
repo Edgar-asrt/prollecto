@@ -15,6 +15,7 @@ namespace prollecto
             Console.WriteLine("holaaaa ivanaaaa");
             Console.WriteLine("xd");
             Console.WriteLine("jairo 20 años");
+            Console.WriteLine("hola ramiro");
         }
     }
 }
