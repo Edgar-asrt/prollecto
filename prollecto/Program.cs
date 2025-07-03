@@ -11,6 +11,9 @@ namespace prollecto
             Console.WriteLine("ya quedo profe jajaja");
             Console.WriteLine("alex es joto jajajaja");
             Console.WriteLine("hola bro");
+            Console.WriteLine("hola bro, ya quedo el proyecto");
+
+        }
 
     }
 }
