@@ -9,6 +9,8 @@ namespace prollecto
             Console.WriteLine("Hola profe");
             Console.WriteLine("ya quedo profe");
             Console.WriteLine("hello4");
+
+            Console.WriteLine("BUno pa programar ");
         }
     }
 }
