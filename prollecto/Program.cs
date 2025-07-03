@@ -10,9 +10,7 @@ namespace prollecto
             Console.WriteLine("ya quedo profe");
             Console.WriteLine("hello");
 
-            // This is a comment
-            Console.WriteLine("holaaacambio");
-            Console.WriteLine(" aque si funciona");
+        
         }
     }
 }
