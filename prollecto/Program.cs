@@ -10,6 +10,8 @@ namespace prollecto
             Console.WriteLine("ya quedo profe");
             Console.WriteLine("ya quedo profe jajaja");
             Console.WriteLine("alex es joto jajajaja");
+
+            Console.WriteLine("si jolo pa");
         }
     }
 }
