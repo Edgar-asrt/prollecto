@@ -11,6 +11,7 @@ namespace prollecto
             Console.WriteLine("hello4");
 
             Console.WriteLine("BUno pa programar ");
+            Console.WriteLine("hola buenoooo");
         }
     }
 }
